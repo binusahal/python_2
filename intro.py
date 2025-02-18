@@ -3,6 +3,7 @@
 x = 10
 y = 2
 m = 7
+m = 7
 print(x * y)
 print(x + y)
 
